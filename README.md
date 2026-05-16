@@ -80,4 +80,4 @@ Data Analyst | Medical Doctor (MBBS) | MPH — Epidemiology, Biostatistics & Dat
 Building a portfolio at the intersection of health data, business intelligence and real-world analytical impact.
 
 - GitHub: [github.com/PrincessUmahi](https://github.com/PrincessUmahi)
-- [LinkedIn](https://www.linkedin.com/in/adaezeumahi/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adaezeumahi/)
