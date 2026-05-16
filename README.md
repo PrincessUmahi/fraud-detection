@@ -70,10 +70,13 @@ Financial fraud costs billions globally every year. This project builds a machin
 ## About the Author
 
 **Adaeze (Princess) Umahi**
-Data Analyst | Medical Doctor (MBBS) | MPH — Epidemiology, Biostatistics & Data Science (University of Glasgow) 
 
-SQL · Python · R · Power BI · Tableau · Microsoft Dynamics 365
-Google Data Analytics Certified | Code First Girls & Data Camp — SQL, Python, AI & Machine Learning | Microsoft Power BI PL-300 (In Progress)
-Building a portfolio at the intersection of health data, business intelligence and real-world analytical impact. 
+Data Analyst | Medical Doctor (MBBS) | MPH — Epidemiology, Biostatistics & Data Science (University of Glasgow)
+
+**Tools:** SQL · Python · R · Power BI · Tableau · Microsoft Dynamics 365
+
+**Certifications:** Google Data Analytics Certificate | Code First Girls & Data Camp — SQL, Python, AI & Machine Learning | Microsoft Power BI PL-300 (In Progress)
+
+Building a portfolio at the intersection of health data, business intelligence and real-world analytical impact.
 
 - GitHub: [github.com/PrincessUmahi](https://github.com/PrincessUmahi)
