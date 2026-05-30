@@ -109,10 +109,16 @@ The model's top predictors were **V14, V10, V12, V17 and V4**. These features (a
 ## About the Author
 
 **Adaeze (Princess) Umahi**
-Medical Doctor | Public Health Professional | Data Analyst
+*Data Analyst | Medical Doctor (MBBS) | MPH — Epidemiology, Biostatistics & Data Science*
 
-- MBBS, Donetsk National Medical University
-- MSc Public Health (Epidemiology & Data Science), University of Glasgow
-- Code First Girls — Data & SQL + Python (2026)
-- DataCamp — Python, Data Engineering, Data Science, AI & Machine Learning (2025–2026)
-- GitHub: [github.com/PrincessUmahi](https://github.com/PrincessUmahi)
+A medical doctor and public health professional transitioning into data analytics, combining clinical insight with technical skill to turn real-world data into decisions. I build projects at the intersection of health data, business intelligence, and measurable impact.
+
+**Education**
+- MSc Public Health (Epidemiology & Data Science) — University of Glasgow
+- MBBS (Medicine) — Donetsk National Medical University
+
+**Tools:** SQL · Python · R · Power BI · Tableau · Microsoft Dynamics 365
+
+**Certifications:** Google Data Analytics · Code First Girls (SQL & Python) · DataCamp (Python, Data Engineering, Data Science, ML) · Microsoft Power BI PL-300 *(in progress)*
+
+🔗 [LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com/PrincessUmahi)
